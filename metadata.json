@@ -1,0 +1,6 @@
+{
+  "name": "Jokoti Steel Carports & Shadeports",
+  "description": "Professional steel carports, shadeports, roofing, and painting services in Pretoria North, Akasia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
