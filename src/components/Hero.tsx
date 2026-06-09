@@ -9,8 +9,8 @@ export default function Hero() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/modern_steel_carport_1781019791518.png"
-          alt="Modern Steel Carport"
+          src="https://i.ibb.co/9knMNHNv/carport-2.jpg"
+          alt="Jokoti Steel Carport"
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
         />

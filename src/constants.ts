@@ -45,6 +45,12 @@ export const SERVICES: Service[] = [
 
 export const GALLERY: GalleryItem[] = [
   {
+    id: '0',
+    image: 'https://i.ibb.co/9knMNHNv/carport-2.jpg',
+    title: 'Custom Steel Carport',
+    category: 'Carports',
+  },
+  {
     id: '1',
     image: '/src/assets/images/modern_steel_carport_1781019791518.png',
     title: 'Modern Double Carport',
