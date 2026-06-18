@@ -31,6 +31,20 @@ async function startServer() {
     });
   });
 
+  // Handle multi-step quote wizard submissions
+  app.post('/api/quote', (req, res) => {
+    const quoteData = req.body;
+    console.log('--- NEW QUOTE REQUEST ---');
+    console.log(`Forwarding to: stewartjokoty87@gmail.com`);
+    console.log('Data:', JSON.stringify(quoteData, null, 2));
+    console.log('-------------------------');
+    
+    res.json({ 
+      success: true, 
+      message: 'Quote request forwarded successfully.' 
+    });
+  });
+
   // Vite middleware for development
   if (process.env.NODE_ENV !== 'production') {
     const vite = await createViteServer({

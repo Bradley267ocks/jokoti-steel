@@ -24,6 +24,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
+            className="pt-[32px]"
           >
             <span className="inline-block bg-blue-600/20 backdrop-blur-sm border border-blue-500/30 text-blue-300 px-3 py-1 rounded-full text-xs font-bold tracking-widest uppercase mb-6">
               Expert Steel Construction

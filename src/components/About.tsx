@@ -17,9 +17,9 @@ export default function About() {
             <div className="relative">
               <div className="absolute -top-6 -left-6 w-32 h-32 bg-blue-100 rounded-2xl z-0" />
               <img
-                src="/src/assets/images/steel_roofing_structure_1781019820664.png"
+                src="https://i.ibb.co/hJW429rm/Whats-App-Image-2026-06-08-at-18-20-01.jpg"
                 alt="Our Workmanship"
-                className="relative z-10 w-full rounded-2xl shadow-2xl grayscale hover:grayscale-0 transition-all duration-700"
+                className="relative z-10 w-full rounded-2xl shadow-2xl grayscale-50 hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute -bottom-6 -right-6 bg-blue-600 text-white p-8 rounded-2xl z-20 hidden md:block">

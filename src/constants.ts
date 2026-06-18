@@ -52,23 +52,70 @@ export const GALLERY: GalleryItem[] = [
   },
   {
     id: '1',
-    image: '/src/assets/images/modern_steel_carport_1781019791518.png',
-    title: 'Modern Double Carport',
+    image: 'https://i.ibb.co/0jhZ5dwK/Whats-App-Image-2026-06-08-at-18-20-01-2.jpg',
+    title: 'Double Residential Carport',
     category: 'Carports',
   },
   {
     id: '2',
-    image: '/src/assets/images/residential_shadeport_1781019806040.png',
-    title: 'Residential Shadeport',
-    category: 'Shadeports',
+    image: 'https://i.ibb.co/9HF67MG3/Whats-App-Image-2026-06-08-at-18-20-01-1.jpg',
+    title: 'Roofing & Maintenance',
+    category: 'Roofing',
   },
   {
     id: '3',
-    image: '/src/assets/images/steel_roofing_structure_1781019820664.png',
-    title: 'Roof Structure Installation',
-    category: 'Roofing',
+    image: 'https://i.ibb.co/hJW429rm/Whats-App-Image-2026-06-08-at-18-20-01.jpg',
+    title: 'Modern Steel Structure',
+    category: 'Steel Structures',
   },
-  // Add more placeholders or if I had more generated
+  {
+    id: '4',
+    image: 'https://i.ibb.co/b5VTMBJc/Whats-App-Image-2026-06-08-at-18-20-00-1.jpg',
+    title: 'Professional Painting',
+    category: 'Painting',
+  },
+  {
+    id: '5',
+    image: 'https://i.ibb.co/rRKL1K1m/Whats-App-Image-2026-06-08-at-18-20-00.jpg',
+    title: 'Steel Framework',
+    category: 'Carports',
+  },
+  {
+    id: '6',
+    image: 'https://i.ibb.co/rRFmXx6p/Whats-App-Image-2026-06-08-at-18-19-59-1.jpg',
+    title: 'Shadeport Installation',
+    category: 'Shadeports',
+  },
+  {
+    id: '7',
+    image: 'https://i.ibb.co/b5BVNjDV/Whats-App-Image-2026-06-08-at-18-19-59.jpg',
+    title: 'Industrial Steel Support',
+    category: 'Steel Structures',
+  },
+  {
+    id: '8',
+    image: 'https://i.ibb.co/ksVTDTXd/Whats-App-Image-2026-06-08-at-18-19-57-1.jpg',
+    title: 'Commercial Shadeport',
+    category: 'Shadeports',
+  },
+  {
+    id: '9',
+    image: 'https://i.ibb.co/yBXpwCnH/Whats-App-Image-2026-06-08-at-18-19-57.jpg',
+    title: 'Triple Bay Carport',
+    category: 'Carports',
+  },
+  {
+    id: '10',
+    image: 'https://i.ibb.co/5hYHd5gD/Whats-App-Image-2026-06-08-at-18-19-56-1.jpg',
+    title: 'Galvanized Steel Carport',
+    category: 'Carports',
+  },
+  {
+    id: '11',
+    image: 'https://i.ibb.co/7xmC9ZZ2/Whats-App-Image-2026-06-08-at-18-19-56.jpg',
+    title: 'Residential Protection',
+    category: 'Carports',
+  },
 ];
 
 export const WHY_CHOOSE_US = [
